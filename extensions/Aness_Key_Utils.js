@@ -5,8 +5,12 @@
 // Credit to Aness6040 <https://scratch.mit.edu/users/AnessScratched/>
 // Creator's Github: https://github.com/Aness6040
 (function(Scratch) {
-
   'use strict';
+
+  if (!Scratch.extensions.unsandboxed) {
+    throw new Error('Key Utils must run unsandboxed');
+  }
+  const vm = Scratch.vm;
 
 class AnessKeyUtils {
   constructor(runtime) {
