@@ -1,7 +1,7 @@
 // WARNING: This Extension is Unsandboxed
 // Name: Key Utils
 // ID: keyutils
-// description: Adds Key Simulator. It's useful for Mobile and Gampead Compatibility
+// description: Adds Key Simulator. It's useful for Mobile and Gamepad Compatibility
 // Credit to Aness6040 <https://scratch.mit.edu/users/AnessScratched/>
 // Creator's Github: https://github.com/Aness6040
 (function(Scratch) {
