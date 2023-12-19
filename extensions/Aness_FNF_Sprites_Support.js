@@ -19,7 +19,7 @@
         color1: "#578398",
         color2: "#4b5268",
         color3: "#1b294b",
-        docsURI: "https://example.com",
+        docsURI: "https://github.com/Aness6040/Aness-Scratch-Extension/wiki/FNF-Sprite-Support",
         blockIconURI: FNFSpriteIcon,
         blocks: [
           {
